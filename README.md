@@ -1,11 +1,12 @@
 # Chapter3-DataScience
-Data visualization, data modeling, and KPI Metric Comparison/Explanation.
+in this chapter, we should use the data set to analyze the data and make some prediction models.
 
 ## Background
 HR professionals generally lag behind with respect to analytics and data visualization competency. Thus, Dr. Carla Patalano set out to create their own HR-related dataset, which is used in one of the graduate MSHRM courses called HR Metrics and Analytics, at New England College of Business. He created this data set.
 
 ## Dataset
 https://raw.githubusercontent.com/Rietaros/kampus_merdeka/main/HRDataset_v14.csv
+
 
 ## Task
 1. Answer multiple aggregations questions using Pandas. (please refer to .ipynb for detailed questions)
